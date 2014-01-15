@@ -1,0 +1,17 @@
+{
+  "name": "yamux",
+  "version": "0.0.1",
+  "description": "Yet another stream multiplexer",
+  "main": "mux.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multiplexer",
+    "multiplex",
+    "streams",
+    "interleave"
+  ],
+  "author": "saary",
+  "license": "MIT"
+}
