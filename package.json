@@ -1,6 +1,6 @@
 {
   "name": "yamux",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Yet another stream multiplexer",
   "main": "mux.js",
   "scripts": {
