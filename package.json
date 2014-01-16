@@ -1,13 +1,13 @@
 {
   "name": "yamux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yet another stream multiplexer",
   "main": "mux.js",
   "scripts": {
     "test": "mocha test/test.js"
   },
   "devDependencies" : {
-    "mocha": "1.x.x"
+    "mocha": ">= 1.x.x"
   },
   "keywords": [
     "multiplexer",
@@ -15,6 +15,7 @@
     "streams",
     "interleave"
   ],
+  "engine": ">= node 0.10.x",
   "author": "saary",
   "license": "MIT"
 }
